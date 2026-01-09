@@ -131,7 +131,7 @@ python external_validation.py
 
 ## Citation
 ```
-Chon, J., Yim, H., Yi, E., Kim, R., & An, S. (2026). Machine Learning Approaches 
+Chon, J., Yim, H., Yi, E., Kwak, R., & An, S. (2026). Machine Learning Approaches 
 for Detecting Adolescent Anxiety Using the National Survey of Children's Health. 
 California State University, Long Beach.
 ```
