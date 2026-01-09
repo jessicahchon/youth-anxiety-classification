@@ -1,6 +1,6 @@
 """
 NSCH 2023 Data Preprocessing
-Project: Predicting Adolescent Anxiety Using Machine Learning
+Project: Detection of Adolescent Anxiety Using Machine Learning
 """
 
 import numpy as np
