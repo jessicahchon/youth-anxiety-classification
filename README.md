@@ -138,6 +138,7 @@ California State University, Long Beach.
 
 ## Acknowledgments
 Data provided by the National Survey of Children's Health (NSCH), U.S. Census Bureau and Health Resources and Services Administration.
+Code documentation assisted by Claude AI.
 
 ## License
 This project is for academic research purposes.
