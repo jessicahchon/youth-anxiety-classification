@@ -4,7 +4,7 @@
 This project develops machine learning models to detect anxiety disorders in U.S. adolescents (ages 12-17) using the National Survey of Children's Health (NSCH) 2023 data. The models are externally validated using NSCH 2024 data to assess temporal generalizability.
 
 ## Authors
-- **Jessica Chon** (Research Lead) - California State University, Long Beach
+- **Jessica Chon** (Research Lead) - M.S. Applied Statistics, California State University, Long Beach
 - Hojun Yim
 - Esther Yi  
 - Rachel Kim
