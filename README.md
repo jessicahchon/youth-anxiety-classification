@@ -5,10 +5,10 @@ This project develops machine learning models to detect anxiety disorders in U.S
 
 ## Authors
 - **Jessica Chon** (Research Lead) - M.S. Applied Statistics, California State University, Long Beach
-- Hojun Yim
+- Hojun Yim - Bishop Montgomery High School
 - Esther Yi  
-- Rachel Kim
-- Sydney An
+- Rachel Kwak - Van Nuys High School
+- Sydney An - Marlborough School
 
 ## Dataset
 - **Training Data**: NSCH 2023 (n = 18,283 adolescents aged 12-17)
