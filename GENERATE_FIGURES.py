@@ -5,7 +5,7 @@ This script generates publication-quality figures based on actual results
 from the machine learning analysis of adolescent anxiety prediction.
 
 Usage:
-    python generate_figures.py
+    python GENERATE_FIGURES.py
 
 Required packages:
     pip install matplotlib seaborn pandas numpy
