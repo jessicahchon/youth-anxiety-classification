@@ -131,13 +131,14 @@ python external_validation.py
 
 ## Citation
 ```
-Chon, J., Yim, H., Yi, E., Kwak, R., & An, S. (2026). Machine Learning Approaches 
-for Detecting Adolescent Anxiety Using the National Survey of Children's Health. 
+Chon, J., Yim, H., Yi, E., Kwak, R., & An, S. (2026). Early Detection of Anxiety in Adolescents
+Using Machine Learning Methods. 
 California State University, Long Beach.
 ```
 
 ## Acknowledgments
 Data provided by the National Survey of Children's Health (NSCH), U.S. Census Bureau and Health Resources and Services Administration.
+
 Code documentation assisted by Claude AI.
 
 ## License
